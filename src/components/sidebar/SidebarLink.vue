@@ -33,6 +33,8 @@ export default {
   transition: opacity 0.1s;
 }
 
+
+
 .fade-enter,
 .fade-leave-to {
   opacity: 0;
@@ -52,7 +54,7 @@ export default {
   border-radius: 0.25em;
   height: 1.5em;
 
-  color: rgb(0, 0, 0);
+  color: rgb(238, 230, 230);
   text-decoration: none;
 }
 

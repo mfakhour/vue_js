@@ -47,7 +47,7 @@ export default {
 
 <style scoped>
 .sidebar {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   background-color: var(--sidebar-bg-color);
 
   float: left;
@@ -73,7 +73,7 @@ export default {
   bottom: 0;
   padding: 0.75em;
 
-  color: rgba(0, 0, 0, 0.7);
+  color: rgb(252, 249, 249);
 
   transition: 0.2s linear;
 }
